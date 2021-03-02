@@ -1,1 +1,2 @@
 I deleted the first line.
+And now I added a new line.
