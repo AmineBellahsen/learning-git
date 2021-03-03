@@ -3,3 +3,18 @@ Writing without adding/commiting.
 
 This is from trial
 
+
+def function(a,b):
+	return a+b
+	
+def function_2(x,y):
+
+def function_4(l):
+	print(l)
+
+def function_3(l,m):
+	return f"{l} is better than {m}"
+
+def function_5():
+	print(3)
+
