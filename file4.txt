@@ -12,3 +12,6 @@ def function_2(x,y):
 def function_3(l,m):
 	return f"{l} is better than {m}"
 
+def function_5():
+	print(3)
+
