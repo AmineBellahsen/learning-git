@@ -1,1 +1,6 @@
+
 From master.
+
+
+def function3():
+    print("this is the third function")
